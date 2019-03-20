@@ -4,11 +4,12 @@
 
 ### Day 68: March 19, Tuesday
 
-**Today's Progress**:
+**Today's Progress:** Worked through freeCodeCampCurriculum and Turing School prework.
 
-**Thoughts:** 
+**Thoughts:** I'm glad someone on Twitter shared the official rules of the 100 Days of Code challenge. This is more engaging than tweets, since I get to practice using markdown and GitHub.
 
-**Link to work:** 
+**Link to work:**
+https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 
 ### Day 69: March 20, Wednesday
 
