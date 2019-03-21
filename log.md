@@ -22,8 +22,9 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 
 ### Day 70: March 21, Thursday
 
-**Today's Progress**: 
+**Today's Progress**: freeCodeCamp curriculum and Turing School prework.
 
-**Thoughts**
+**Thoughts** I'm getting a better understanding of how to use float and clear for layout.
 
 **Link(s) to work**
+https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
