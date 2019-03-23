@@ -28,3 +28,9 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 
 **Link(s) to work**
 https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
+
+### Day 71: March 22, Friday
+
+**Today's Progress**: freeCodeCamp curriculum and HTML/CSS class project.
+
+**Thoughts** 
