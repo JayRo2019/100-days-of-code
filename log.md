@@ -34,3 +34,12 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 **Today's Progress**: freeCodeCamp curriculum and HTML/CSS class project.
 
 **Thoughts** 
+
+### Day 72: March 23, Saturday
+
+**Today's Progress**: freeCodeCamp curriculum and Turing prework.
+
+**Thoughts**
+
+**Link(s) to work**
+https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
