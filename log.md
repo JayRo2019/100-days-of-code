@@ -52,3 +52,14 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 
 **Link(s) to work**
 https://codepen.io/jayro2019/pen/GeXNRm?editors=1100
+
+### Day 73: March 25, Monday
+
+**Today's Progress**: freeCodeCamp curriculum and school club website.
+
+**Thoughts** Today I designed a (very) basic website for my school's SHPE chapter, which I'm going to share with the club's advisor tomorrow.
+
+**Link(s) to work**
+
+
+
