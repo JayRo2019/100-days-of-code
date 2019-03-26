@@ -44,7 +44,7 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 **Link(s) to work**
 https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 
-### Day 72: March 24, Sunday
+### Day 73: March 24, Sunday
 
 **Today's Progress**: freeCodeCamp curriculum and Turing prework.
 
@@ -53,7 +53,7 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1000
 **Link(s) to work**
 https://codepen.io/jayro2019/pen/GeXNRm?editors=1100
 
-### Day 73: March 25, Monday
+### Day 74: March 25, Monday
 
 **Today's Progress**: freeCodeCamp curriculum and school club website.
 
