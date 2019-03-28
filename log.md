@@ -62,4 +62,12 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1100
 **Link(s) to work**
 
 
+### Day 74: March 27, Wednesday
+
+**Today's Progress**: freeCodeCamp curriculum
+
+**Thoughts** Club advisor approved of first draft of club's website. 
+
+**Link(s) to work**
+
 
