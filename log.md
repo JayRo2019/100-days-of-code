@@ -85,3 +85,9 @@ https://codepen.io/jayro2019/pen/GeXNRm?editors=1100
 **Thoughts** 
 
 **Link(s) to work**
+
+### Day 78: April 1, Monday
+
+**Thoughts** 
+
+**Today's Progress** freeCodeCamp curriculum
